@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<camera>
+
+	<id>FI8905W</id>
+	
+	<nome>IP Wireless FI8905W</nome>
+
+	<caracteristicas>
+	Fácil de instalar e configurar;Estrutura à prova d'água, ideal para monitoramento externo;LED's infravermelhos automáticos para visão noturna até 30 metros;Permite visualizar e gravar em tempo real através de qualquer navegador de internet;Suporte Wireless padrão IEEE 802.11b/g;Suporta criptografias WEP, WPA e WPA2;Sensor de movimento que envia um alerta para e-mail e upload de imagens para FTP;Permite cadastro de vários usuários (administrador/operador/visitante) com senhas para acesso
+	</caracteristicas>
+	
+	<imagens>
+		
+		<imagem>
+		
+			<grande>FI8905W-1.png</grande>
+			<pequena>FI8905W-p1.png</pequena>
+		
+		</imagem>
+		
+		<imagem>
+		
+			<grande>FI8905W-2.png</grande>
+			<pequena>FI8905W-p2.png</pequena>
+		
+		</imagem>
+		
+		<imagem>
+		
+			<grande>FI8905W-3.png</grande>
+			<pequena>FI8905W-p3.png</pequena>
+		
+		</imagem>
+		
+		<imagem>
+		
+			<grande>FI8905W-4.png</grande>
+			<pequena>FI8905W-p4.png</pequena>
+		
+		</imagem>
+	
+	</imagens>
+
+	<especificacoes>
+	
+		<itens>
+			
+			<item>
+				<titulo>Sensor de imagem</titulo>
+				<descricao>
+				Sensor de imagem: Sensor em cores 1/4" CMOS;Resolução da tela: 640 x 480 pixels (300k pixels);Lente: 6mm / 8mm (opicional), F 2.4 (lente IR);Iluminação mínima: 0.5 Lux
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Lente</titulo>
+				<descricao>
+				Tipo: Lente de vidro;Ângulo de visão: 25º (6mm) 19º (8mm)
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Video</titulo>
+				<descricao>
+				Compressão: MJPEG;Quadros por segundo: 14fps(VGA), 30fps(QVGA);Resolução: 640 x 480(VGA), 320 x 240(QVGA);Ajuste de imagem: Vertical e Horizontal;Frequência da luz: 50Hz, 60Hz ou Ambiente externo;Parâmetros: Brilho, Contraste
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Comunicação</titulo>
+				<descricao>
+				Ethernet: 10/100Mbps RJ-45;Protocolos: HTTP, FTP, TCP/IP, UDP, SMTP, DHCP, PPPoE, DDNS, UPnP, GPRS;Wireless: IEEE 802.11b/g;Transferência de dados: 802.11b 11Mbps (Max.), 802.11g 54Mbps (Max.);Segurança Wireless: Criptografia WEP, WPA, WPA2	
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Físico</titulo>
+				<descricao>
+				Infravermelho (IR): 60 LED's IR com visibilidade noturna até 30 metros;Dimensões: 18 x 9,8 x 10,2cm (C x L x A);Peso bruto: 1150g;Peso líquido: 953g
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Energia</titulo>
+				<descricao>
+				Fonte: DC 5V/2.0A;Consumo: 5 Watts (Max.)
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Ambiente</titulo>
+				<descricao>
+				Temperatura de operação: 0º ~ 55ºC;Umidade de operação: 20% ~ 85%;Temperatura de armazenagem: -10º ~ 60ºC;Umidade de armazenagem: 0% ~ 90%
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Requisitos do computador</titulo>
+				<descricao>
+				CPU: 2.0GHz ou superior (sugerido 3.0GHz);Memória: 256Mb ou superior (sugerido 1.0GHz);Placa de video: 64Mb ou superior;Sistema operacional: Microsoft Windows 2000/XP/Vista/Seven e Mac OS X;Navegador: IE6.0, IE7.0, IE8.0, Firefox, outros padrões
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Certificação</titulo>
+				<descricao>
+				CE, FCC
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Garantia</titulo>
+				<descricao>
+				1 ano
+				</descricao>
+			</item>
+			
+			
+			
+		</itens>
+		
+	</especificacoes>
+	
+
+</camera>

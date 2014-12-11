@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<camera>
+
+	<id>FI9805W</id>
+	
+	<nome>IP Wireless FI9805W Megapixel</nome>
+
+	<caracteristicas>
+	Sensor de imagem High Definition por protocolo H264;Gravação de videos em alta qualidade;Led's com iluminação automática para visão noturna (até 50m);Cadastro de vários usuários com senha;Até 10 usuários simultáneos;Suporta UPnP e configuração automática de porta;Suporta DDNS, LAN e Internet (modem ADSL);Área de detecção seletível e sensível;Suporta tecnologia de image shielding e permite ajustar a área de máscara;Funções de alarme/MD/tempo/comando manual de gravação;Suporte a SMTP, permite enviar a imagem quando detectar o movimento;Monitoramento em tempo real, suporta formatos;CIF/QCIF/Half-D1;Suporta navegador Internet Explorer nas versões: IE 6.0, IE7.0,IE8.0
+	</caracteristicas>
+	
+	<imagens>
+		
+		<imagem>
+		
+			<grande>FI9802W-1.png</grande>
+			<pequena>FI9802W-p1.png</pequena>
+		
+		</imagem>
+	
+	</imagens>
+
+	<especificacoes>
+	
+		<itens>
+			
+			<item>
+				<titulo>Sensor de imagem</titulo>
+				<descricao>
+				Sensor de Imagem: 420TVL 1/3" SONY Color CCD Sensor; 
+Lentes f: 4mm F:1.2 Mini; 
+Iluminação: 0.1Lux
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Lente</titulo>
+				<descricao>
+				Tipo de lentes: Lentes de Vidro; 
+Ângulo de visão: 54º
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Video</titulo>
+				<descricao>
+				Formato de vídeo: Suporta NTSC/PAL; 
+Compressão de imagem: H.264; 
+Quadros por Segundo/FPS: 25fps(PAL), 30fps(NTSC),FPS inferior ajustável; 
+Resolução: 1280 x 720(720p), 640 x 480(VGA), 320 x 240(QVGA); 
+Visualização: H.264 dual streaming; 
+White balance: white balance automático; 
+Backlight compensation: backlight compensation automático; 
+SNR: >48DB (AGC OFF); 
+Parâmetros de vídeo: Brilho, contraste; 
+Visibilidade noturna: F8mm 36 IR LEDs, Visão noturna até 50 metros
+				</descricao>
+			</item>
+			
+			
+			<item>
+				<titulo>Áudio</titulo>
+				<descricao>
+				Compressão de audio: G.711/G.726; 
+Sample Rate: 128Kbps~2.048Mbps; 
+Input/Output: Linear Input/Output, suporta two-way audio
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Energia</titulo>
+				<descricao>
+				Fonte: DC 12V/2.0A (EU,US,AU,UK plug);
+Consumo: menor que 8 Watts.
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Físico</titulo>
+				<descricao>
+				Dimensões: 16,9cm X 10,0cm X 9,6cm;
+Peso bruto: 1.48kg;
+Peso liquido: 1.02kg
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Ambiente</titulo>
+				<descricao>
+				Temperatura de operação: 0° ~ 55°C (14°F ~ 122°F);
+Umidade de operação: 20% ~ 85% non-condensing;
+Temperatura de armazenagem: -10°C ~ 60° (14°F ~ 140°F);
+Umidade de armazenagem: 0% ~ 90% non-condensing
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Requisitos do computador</titulo>
+				<descricao>
+				Roteador para conexão com a câmera de preferência;
+CPU: 2.0GHZ ou superior (sugerido 3.0GHZ);
+Memória: 256MB ou superior (sugerido 1.0GHZ); 
+Placa de vídeo: 64M ou superior;
+Sistema operacional: Microsoft Windows 2000/XP,Vista,Windows7,Mac OS,Linux;
+Navegador: IE,Firefox,Safari,Goolge Chrome, outros navegadores
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Rede</titulo>
+				<descricao>
+				Ethernet: One 10/100Mbps RJ-45; 
+Protocolo: HTTP,FTP,TCP/IP,UDP/IP,SMTP,DHCP,DDNS,UPNP
+				</descricao>
+			</item>
+			
+		</itens>
+		
+	</especificacoes>
+	
+
+</camera>

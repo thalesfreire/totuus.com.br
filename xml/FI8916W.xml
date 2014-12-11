@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<camera>
+
+	<id>FI8916W</id>
+	
+	<nome>IP Wireless FI8916W</nome>
+
+	<caracteristicas>Permite visualização e controle de movimentos através da internet ou celular;Pode ser conectada via wireless ou cabo de rede RJ45 em um roteador ou modem;Possui dispositivo de áudio embutido, que permite a comunicação entre quem contola e o ambiente monitorado;LED's infravermelhos automáticos para visão noturna até 8 metros;Pode ser fixada invertida (ponta cabeça);Sensor de movimento que envia um alerta para e-mail e upload de imagens para FTP;Permite cadastro de vários usuários (administrador/operador/visitante) com senhas para acesso</caracteristicas>
+	
+	<imagens>
+		
+		<imagem>
+		
+			<grande>FI8916W-1.jpg</grande>
+			<pequena>FI8916W-p1.jpg</pequena>
+		
+		</imagem>
+	
+	</imagens>
+
+	
+	
+
+</camera>

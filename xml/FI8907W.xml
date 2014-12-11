@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<camera>
+
+	<id>FI8907W</id>
+	
+	<nome>IP Wireless FI8907W</nome>
+
+	<caracteristicas>
+
+Permite que você assista e grave imagens remotamente através da LAN ou de internet utilizando um computador ou dispositivos móveis;Fácil instalação e uma interface gráfica amigável;LED's infravermelhos automáticos para visão noturna até 8 metros;Compatível com padrões Wi-Fi IEEE 802.11b/g;Alta qualidade de vídeos e imagens;Suporta os protocolos WEP e WPA
+	</caracteristicas>
+	
+	<imagens>
+		
+		<imagem>
+		
+			<grande>FI8907W-1.png</grande>
+			<pequena>FI8907W-p1.png</pequena>
+		
+		</imagem>
+		
+	</imagens>
+
+	<especificacoes>
+	
+		<itens>
+			
+			<item>
+				<titulo>Comunicação</titulo>
+				<descricao>
+				Ethernet: 10/100Mbps RJ-45;Protocolos:HTTP,FTP, TCP/IP,UDP,SMTP, DHCP,PPPoE, DDNS,UPnP,GPRS;Padrão Wireless: IEEE 802.11b/g;Taxa de transferência de dados: 802.11b: 11Mbps(Max.), 802.11g: 54Mbps(Max.);Segurança Wireless: Criptografia WEP e WPA
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Certificação</titulo>
+				<descricao>
+				CE, FCC
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Garantia</titulo>
+				<descricao>
+				2 anos
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Sensor de imagem</titulo>
+				<descricao>
+				Sensor de Imagen de alta definição;Resolução do display: 640 x 480 Pixels (300k Pixels);Lentes: f: 2,8mm, F: 2,4 (Ientes Infra-vermelho);Iluminação mínima: 0.5Lux.
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Lente</titulo>
+				<descricao>
+				Tipo de Lente: Lente de Vidro;Ângulo de visão: 60°.
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Video</titulo>
+				<descricao>
+				Compressão de Imagem: MJPEG;Taxa de frames por segundo: 15fps(VGA),30fps(QVGA);Espelhamento da imagem: Vertical/horizontal;Resolução: 640 x 480(VGA), 320 x 240(QVGA);Frequência da Luz: 50Hz, 60Hz ou ambiente externo;Parametros de vídeo: Brilho, Contraste.
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Físico</titulo>
+				<descricao>
+				Led Infra-vermelho: 2 LEDs infra-vermelho, visibilidade noturna até 8 metros;Dimensões: 85.6(P) x 75,3(L) x 126,8cm(A);Peso Bruto: 365g (Caixa);Peso Líquido: 240g (Acessórios Inclusos).
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Energia</titulo>
+				<descricao>
+				Fornecimento de energia: DC 5V/2.0A;Consumo de energia: 5 Watts (Max.)
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Requisitos do computador</titulo>
+				<descricao>
+				CPU: 2.0GHZ ou superior (sugerido 3.0GHz);Tamanho da memória: 256MB ou superior (sugerido 1.0GHz);Sistema operacional: Microsoft Windows 2000/XP/Vista;Placa de vídeo: 64M ou superior;Navegador: IE 6.0, IE7.0,Firefox ou qualquer outro navegador padrão.
+				</descricao>
+			</item>
+			
+			
+			
+		</itens>
+		
+	</especificacoes>
+	
+
+</camera>

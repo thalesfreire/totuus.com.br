@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<camera>
+
+	<id>FI8620</id>
+	
+	<nome>IP H264 FI8620</nome>
+
+	<caracteristicas>
+	Alta performance por processador de mídia poderoso, chip SOC único (ARM + DSP) e de alta velocidade do processador de protocolo de vídeo. Padrão H.264, algoritmo de compressão de vídeo para transmissão em alta definição com economia de banda;Os usuários podem monitorar e controlar a Câmera IP remotamente via navegador (Internet Explores, Firefox, Google Chrome e outros) de qualquer lugar, a qualquer hora. Gerenciamento de usuários com senha de proteção;Função auto-adaptativa: fluxo de ajuste e codificação de taxa de quadros automaticamente de acordo com a largura de banda da rede;Suporta acesso por Smartphones;Alerta de detecção de movimento via e-mail ou FTP para carregar a imagem
+	</caracteristicas>
+	
+	<imagens>
+		
+		<imagem>
+		
+			<grande>FI8620W-1.png</grande>
+			<pequena>FI8620W-p1.png</pequena>
+		
+		</imagem>
+	
+	</imagens>
+
+	<especificacoes>
+	
+		<itens>
+			
+			<item>
+				<titulo>Sensor de imagem</titulo>
+				<descricao>
+				Sensor: 480TVL 1/4" SONY Color CCD Sensor;Variação óptica: 10x;Lentes: f:3.8mm-38mm;Iluminação mínima: 0.6Lux.
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Video</titulo>
+				<descricao>
+				Formatos de vídeo: Supports NTSC or PAL Formats;Compressão de imagem: H.264;Image Frame Rate: 25fps (PAL Formats), 30fps (NTSC Formats), ajustável;Resolução de imagem: D1 (720*576), CIF (352*288), QCIF (176*144);Padrão: H.264 dual streaming;Foco: Auto/hand-switch/keying automatic, autofoco digital ulsg;Ajuste de imagem: Brilho e contraste ajustável;Balanço de branco: Automático;Compensação de backlight: Automático;SNR: >60DB (AGC OFF). 
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Comunicação</titulo>
+				<descricao>
+				Ethernet: Cabo 10/100Mbps RJ-45;Protocolos suportados: TCP/IP, UDP/IP, HTTP, SMTP, FTP, DHCP, DNS, DDNS, UPNP, POP3;Endereço de IP: Estático e dinâmico.
+				</descricao>
+			</item>
+			
+			
+			<item>
+				<titulo>Alarme</titulo>
+				<descricao>
+				Detecção por alarme: Detecção de movimento configurável;Aviso do alarme: Aviso por email ou FTP.
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Hardware/Interface</titulo>
+				<descricao>
+				Fonte: BIVOLT - DC 12V/2.0A, Consumo menor que 8 Watts;RESET: botão de reset das configurações;Interface de rede: 10/100Mbps RJ-45.
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Ambiente</titulo>
+				<descricao>
+				Temperatura de operação: 0° ~ 55°C (14°F ~ 122°F);Umidade de operação: 10% ~ 80% sem condensação;Temperatura de armazenagem: -10°C ~ 60° (14°F ~ 140°F);Temperatura de armazenagem: 0% ~ 90% sem condensação.
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Físico</titulo>
+				<descricao>
+				Velocidade horizontal: 1-250° /S;Velocidade vertical: 1-100° /S;Movimentação - Pan/Tilt: Horizontal 360° e Vertical 0-90°;Dimensões: 26,7cm (Comprimento) x 25,4cm (Largura) x 18,3cm (Altura);Peso bruto: 2690g (Tamanho da caixa: 35,5*30,5*20,0cm);Peso líquido: 1935g
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Certificação</titulo>
+				<descricao>
+				CE, FCC
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Requisitos do computador</titulo>
+				<descricao>
+				Recomendado uso do roteador para conexão;Processador: 2.0GHZ ou mais (sugerido 3.0GHz);Memória RAM: 256MB ou mais (sugerido 1.0GHz);Placa de vídeo: 64M ou mais;Sistema operacional: Microsoft Windows 2000/XP, Vista, Windows7, Mac OS, Linux
+				</descricao>
+			</item>
+			
+			
+		</itens>
+		
+	</especificacoes>
+	
+
+</camera>

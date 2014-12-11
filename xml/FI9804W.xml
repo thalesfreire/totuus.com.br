@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<camera>
+
+	<id>FI9804W</id>
+	
+	<nome>IP Wireless FI9804W Megapixel</nome>
+
+	<caracteristicas>
+	Fácil de instalar e configurar;Sensor de imagem High Definition por protocolo H264;Estrutura à prova d'água, ideal para monitoramento externo;LED's infravermelhos automáticos para visão noturna até 30 metros;Permite visualizar e gravar em tempo real através de qualquer navegador de internet;Suporte Wireless padrão IEEE 802.11b/g;Suporta criptografias WEP, WPA e WPA2;Sensor de movimento que envia um alerta para e-mail e upload de imagens para FTP;Permite cadastro de vários usuários (administrador/operador/visitante) com senhas de acesso
+	</caracteristicas>
+	
+	<imagens>
+		
+		<imagem>
+		
+			<grande>FI9801W-1.png</grande>
+			<pequena>FI9801W-p1.png</pequena>
+		
+		</imagem>
+	
+	</imagens>
+
+	<especificacoes>
+	
+		<itens>
+			
+			<item>
+				<titulo>Sensor de imagem</titulo>
+				<descricao>
+				Sensor de imagem: High Definition Color CMOS Sensor; Lentes f:6mm F:1.2; Iluminação mínima: 0.1Lux
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Lente</titulo>
+				<descricao>
+				Tipo de lentes: Lentes de vidro; Ângulo de visão: 4mm (54°)
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Áudio</titulo>
+				<descricao>
+				Audio: Compressão de audio G.711/G.726; 
+				Rate sample: 128Kbps~2.048Mbps; 
+				Input/Output: Linear Input/Output, áudio bidirecional
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Video</titulo>
+				<descricao>
+				Formatos de vídeo: Suporta formato NTSC/PAL; 
+				Compressão de imagem: H.264; 
+				FPS: 25fps(formato PAL), 30fps(formato NTSC) ajustável para mais baixo; 
+				Resolução de imagem:1280 x 720 Pixels(1.0M Pixels); 
+				Codec: H.264 dual streaming; 
+				Balanço do branco: balanço do branco automático; 
+				Compensação de backlight: compensação de backlight automático; 
+				SNR >48DB (AGC OFF); 
+				Parâmetros de vídeo: brilho, contranste; 
+				Visão noturna: 5mm 36 IR LEDs, visibilidade noturna até 30 metros; 
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Físico</titulo>
+				<descricao>
+				Dimensões: (Comprimento 18,7 x Largura 10,0 x Altura 8,2cm); 
+				Peso bruto: 1480g (Tamanho da caixa: 29,5 x 13,0 x 21,5cm); 
+				Peso líquido: 1020g
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Energia</titulo>
+				<descricao>
+				Fonte: DC 12V/2.0A;Consumo: 8 Watts (Max.)
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Ambiente</titulo>
+				<descricao>
+				Temperatura de operação: 0° ~ 55°C (32°F ~ 131°F); 
+				Umidade de operação: 20% ~ 85% sem condensação; 
+				Temperatura de armazenamento: -10°C ~ 60° (14°F ~ 140°F); 
+				Umidade de armazenagem: 0% ~ 90% sem condensação				
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Requisitos do computador</titulo>
+				<descricao>
+				CPU: 2.0GHz ou superior (sugerido 3.0GHz);Memória: 256Mb ou superior (sugerido 1.0GHz);Placa de video: 64Mb ou superior;Sistema operacional: Microsoft Windows 2000/XP/Vista/Seven e Mac OS X;Navegador: IE6.0, IE7.0, IE8.0, Firefox, outros padrões
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Rede</titulo>
+				<descricao>
+				Cabo: 10/100Mbps RJ-45; 
+Protocolos suportados: HTTP, FTP, TCP/IP, UDP/IP, SMTP, DHCP, DDNS, UPNP; 
+Padrão Wireless: IEEE 802.11b/g/n; 
+Transmissão Máxima: 802.11b: 11Mbps(Max.) 802.11g: 54Mbps(Max.); 
+Protocolos Wireless: WEP, WPA e WPA2
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Certificação</titulo>
+				<descricao>
+				CE, FCC
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Garantia</titulo>
+				<descricao>
+				1 ano
+				</descricao>
+			</item>
+			
+		</itens>
+		
+	</especificacoes>
+	
+
+</camera>

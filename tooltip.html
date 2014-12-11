@@ -1,0 +1,87 @@
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>Simple Tooltip for jQuery</title>
+    <script type="text/javascript" charset="utf-8" src="js/jquery-1.6.4.min.js"></script>
+<script >
+
+/*
+Made by web ninja Jonas Arnklint. Use it, modify it and...
+An MIT license is distributed with this plugins original source.
+Originally extracted from the easy to use CMS Venio at http://venio.se.
+*/
+(function($) {
+  $.fn.simpleTooltip = function(options){	
+var opts = $.extend({}, $.fn.simpleTooltip.defaults, options);
+
+return this.each(function(){
+var me = $(this);
+var originalTitle = "";
+      me.hover(function(e){	
+        originalTitle = me.attr('title');
+        titleDisplayed = originalTitle && !opts.overrideElementTitle ? originalTitle : opts.title;
+        me.attr("title","");
+        if(titleDisplayed.length>0){
+   $("body").append("<p id='v-tooltip'>"+titleDisplayed+"</p>");
+   $("#v-tooltip")
+   .animate({opacity: 1.0}, opts.delay)
+   .css("top",(e.pageY - opts.xOffset) + "px")
+   .css("left",(e.pageX + opts.yOffset) + "px")
+   .fadeIn("fast");
+   }	
+      },function(){
+        me.attr("title", originalTitle);
+   $("#v-tooltip").remove();
+      });	
+   me.mousemove(function(e){
+   $("#v-tooltip")
+   .css("top",(e.pageY - opts.xOffset) + "px")
+   .css("left",(e.pageX + opts.yOffset) + "px");
+   });
+});
+}
+
+  $.fn.simpleTooltip.defaults = {
+    title: null,
+    xOffset: 10,
+    yOffset: 20,
+    delay: 400,
+    overrideElementTitle: false
+  }
+})(jQuery);
+
+
+</script>
+    <script type="text/javascript" charset="utf-8">
+      jQuery(document).ready(function(){
+        $('#my-link, p span').simpleTooltip({
+          title: 'me is a tooltip'
+        });
+      });
+    </script>
+    <style type="text/css" media="screen">
+      #v-tooltip {
+        position:absolute;
+       background:#000;
+       padding:3px 5px;
+       color:#fff;
+       font-size: 11px;
+       font-family: Arial, Verdana, sans-serif;
+       display:none;
+        -moz-border-radius: 3px;
+       -webkit-border-radius: 3px;	
+      }
+      p span {
+        font-style: italic;
+      }
+    </style>
+</head>
+    <body>
+      <h1>Simple tooltip for jQuery</h1>
+
+      <p>
+	  	<img src="images/Visa_Master.png" >
+        <a href="http://arnklint.com" id="my-link" title="Web developer from Umeå in Sweden">Jonas Arnklint</a>
+      </p>
+    </body>
+</html>

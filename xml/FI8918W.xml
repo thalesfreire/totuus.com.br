@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<camera>
+
+	<id>FI8918W</id>
+	
+	<nome>IP Wireless FI8918W</nome>
+
+	<caracteristicas>
+	Permite visualização e controle de movimentos através da internet ou celular;Pode ser conectada via wireless ou cabo de rede RJ45 em um roteador ou modem;Possui dispositivo de áudio embutido, que permite a comunicação entre quem contola e o ambiente monitorado;LED's infravermelhos automáticos para visão noturna até 8 metros;Pode ser fixada invertida (ponta cabeça);Não requer nenhum computador ligado para o funcionamento ou monitoramento;Sensor de movimento que envia um alerta para e-mail e upload de imagens para FTP;Permite cadastro de vários usuários (administrador/operador/visitante) com senhas para acesso
+	</caracteristicas>
+	
+	<imagens>
+		
+		<imagem>
+		
+			<grande>FI8918W-1.png</grande>
+			<pequena>FI8918W-p1.png</pequena>
+		
+		</imagem>
+		
+		<imagem>
+		
+			<grande>FI8918W-2.png</grande>
+			<pequena>FI8918W-p2.jpg</pequena>
+		
+		</imagem>
+		
+		<imagem>
+		
+			<grande>FI8918W-3.png</grande>
+			<pequena>FI8918W-p3.png</pequena>
+		
+		</imagem>
+		
+		<imagem>
+		
+			<grande>FI8918W-4.png</grande>
+			<pequena>FI8918W-p4.png</pequena>
+		
+		</imagem>
+	
+	</imagens>
+
+	<especificacoes>
+	
+		<itens>
+			
+			<item>
+				<titulo>Sensor de imagem</titulo>
+				<descricao>
+				Sensor de imagem: Sensor em cores 1/4" CMOS; Resolução da tela: 640 x 480 pixels (300k pixels);Lentes: f 3.6mm, F 2.4 (lente IR);Iluminação mínima: 0.5 Lux
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Lente</titulo>
+				<descricao>
+				Tipo: Lente de vidro;Ângulo de visão: 67º
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Áudio</titulo>
+				<descricao>
+				Entrada: Microfone embutido;Saída: Auto-Falante embutido;Audio IN/OUT;Compressão: ADPCM
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Video</titulo>
+				<descricao>
+				Compressão: MJPEG;Quadros por segundo: 15fps(VGA), 30fps(QVGA);Resolução: 640 x 480(VGA), 320 x 240(QVGA);Ajuste de imagem: Vertical e Horizontal;Frequência da luz: 50Hz, 60Hz ou Ambiente externo;Parâmetros: Brilho, Contraste
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Físico</titulo>
+				<descricao>
+				Movimentação: 300º Horizontal e 120º Vertical;Infravermelho (IR): 11 LED's IR com visibilidade noturna até 8 metros;Dimensões: 12 x 20 x 19cm (C x L x A);Peso bruto: 768g;Peso líquido: 418g
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Energia</titulo>
+				<descricao>
+				Fonte: DC 5V/2.0A;Consumo: 5 Watts (Max.)
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Ambiente</titulo>
+				<descricao>
+				Temperatura de operação: 0º ~ 55ºC;Umidade de operação: 20% ~ 85%;Temperatura de armazenagem: -10º ~ 60ºC;Umidade de armazenagem: 0% ~ 90%
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Requisitos do computador</titulo>
+				<descricao>
+				CPU: 2.0GHz ou superior (sugerido 3.0GHz);Memória: 256Mb ou superior (sugerido 1.0Ghz);Placa de video: 64Mb ou superior;Sistema operacional: Microsoft Windows 2000/XP/Vista/Seven e Mac OS X;Navegador: IE6.0, IE7.0, IE8.0, Firefox, outros padrões
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Comunicação</titulo>
+				<descricao>
+				Ethernet: 10/100Mbps RJ-45;Protocolos: HTTP, FTP, TCP/IP, UDP, SMTP, DHCP, PPPoE, DDNS, UPnP, GPRS;Wireless: IEEE 802.11b/g;Transferência de dados: 802.11b 11Mbps (Max.), 802.11g 54Mbps (Max.);Segurança Wireless: Criptografia WEP, WPA e WPA2
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Certificação</titulo>
+				<descricao>
+				CE, FCC
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Garantia</titulo>
+				<descricao>
+				1 ano
+				</descricao>
+			</item>
+			
+			<item>
+				<titulo>Sensor de imagem</titulo>
+				<descricao>
+				SENSOR DE IMAGEM -Sensor de imagem: Sensor CMOS -Resolução do display: 640*480 Pixels(300k Pixels) -Lentes: f: 3.6mm, F: 2.4 (IR-CUT) -Iluminação mínima: 0.5Lux
+				</descricao>
+			</item>
+			
+			
+		</itens>
+		
+	</especificacoes>
+	
+
+</camera>

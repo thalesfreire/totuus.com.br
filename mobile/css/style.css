@@ -1,0 +1,427 @@
+/* CSS Document */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* General */
+body {
+ 	/*background: url('../images/background.jpg') repeat-x 0 0;*/
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 0.8em;
+    height: 100%;
+}
+
+img {
+	border:none;
+}
+
+#divLogo {
+	background: url('../images/backgroundTopo.png') repeat-x 0 0;
+	width:100%;
+	height: 44px;
+	position:relative;
+	text-align:center;
+	color: #FFFFFF;
+    font-size: 18px;
+    line-height: 2.4em;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.6);
+	font-weight: bold;
+}
+
+#divLogo h1 {
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 2.4em;
+    text-align: center;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.6);
+}
+
+#divApp {
+	background-color:#FFFFFF;
+	width:100%;
+	height: 70px;
+	margin: 0 auto;
+	
+}
+
+#rodape {
+	background-color:#FFFFFF;
+	width:100%;
+	height: 70px;
+	text-align:center;
+	margin-top: 10px;
+	font-size: 11px;
+	color:#666666;
+}
+
+
+#logoImage {
+	margin-left:6px; 
+	margin-right:6px; 
+	margin-top:6px;
+}
+
+#menu {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	height: 255px;
+	background-color:#E8E8E8;
+	border-top: 1px solid #D6D6D6;
+	border-bottom: 1px solid #D6D6D6;
+}
+
+#menu ul {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    width: 315px;
+}
+
+#menu li {
+    background: url("../images/backgroundBotoes.png") no-repeat scroll center top transparent;
+    display: block;
+    float: left;
+    list-style: none outside none;
+    margin: 10px 0 0 9px;
+    position: relative;
+    width: 93px;
+}
+
+#menu p {
+    color: #101010;
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 4px;
+    text-align: center;
+    text-transform: capitalize;
+    width: 93px;
+}
+#menu a {
+    cursor: pointer;
+    display: block;
+	height: 93px;
+    width: 93px;
+}
+#menu a.produtos {
+    background: url("http://d3p00f93l56nax.cloudfront.net/assets/mobile/icon-events-b90b01d98058e375aac1c4bf3b3028d9.png") no-repeat scroll center center transparent;
+    
+}
+
+#menu a.servicos {
+    background: url("http://d3p00f93l56nax.cloudfront.net/assets/mobile/icon-events-b90b01d98058e375aac1c4bf3b3028d9.png") no-repeat scroll center center transparent;
+    
+}
+
+#menu a.quem-somos {
+    background: url("http://d3p00f93l56nax.cloudfront.net/assets/mobile/icon-events-b90b01d98058e375aac1c4bf3b3028d9.png") no-repeat scroll center center transparent;
+    
+}
+
+#menu a.downloads {
+    background: url("http://d3p00f93l56nax.cloudfront.net/assets/mobile/icon-events-b90b01d98058e375aac1c4bf3b3028d9.png") no-repeat scroll center center transparent;
+    
+}
+
+#menu a.loja-virtual {
+    background: url("http://d3p00f93l56nax.cloudfront.net/assets/mobile/icon-events-b90b01d98058e375aac1c4bf3b3028d9.png") no-repeat scroll center center transparent;
+    
+}
+
+#menu a.fale-conosco {
+    background: url("http://d3p00f93l56nax.cloudfront.net/assets/mobile/icon-events-b90b01d98058e375aac1c4bf3b3028d9.png") no-repeat scroll center center transparent;
+    
+}
+
+#principal {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color:#E8E8E8;
+	border-top: 1px solid #D6D6D6;
+	border-bottom: 1px solid #D6D6D6;
+}
+
+.cabecalhoMenu {
+
+	clear: both;
+    width: 100%;
+    height: 50px;
+    position:relative;
+    background:#FFFFFF;
+    -webkit-border-radius: 6px 6px 0px 0px;
+    -moz-border-radius: 6px 6px 0px 0px;
+    border-radius:  6px 6px 0px 0px;
+	border:solid;
+	border-width: 1px;
+	border-color:#999999;
+	border-bottom:none;
+
+}
+
+.itemMenu {
+
+	clear: both;
+    width: 100%;
+    height: 50px;
+    position:relative;
+    background:#FFFFFF;
+	border:solid;
+	border-width: 1px;
+	border-color:#999999;
+	border-bottom:none;
+
+}
+
+.rodapeMenu {
+
+	clear: both;
+    width: 100%;
+    height: 50px;
+    position:relative;
+    background:#FFFFFF;
+    -webkit-border-radius: 0px 0px 6px 6px;
+    -moz-border-radius: 0px 0px 6px 6px;
+    border-radius:  0px 0px 6px 6px;
+	border:solid;
+	border-width: 1px;
+	border-color:#999999;
+
+}
+
+a {
+   	color: #006699;
+    font-weight: bold;
+	font-size: 22px;
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #006699;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #006699;
+    font-weight: bold;
+	font-size: 22px;
+    text-decoration: none;
+}
+
+
+/* CONTATO */
+
+p.name input { background:  url(../images/name.png) 8px 8px no-repeat; color:#999999; background-color:#FFFFFF;}
+p.email input { background:  url(../images/email.png) 8px 8px no-repeat; color:#999999; background-color:#FFFFFF;}
+p.telefone input { background:  url(../images/telefone.png) 8px 8px no-repeat; color:#999999; background-color:#FFFFFF;}
+p.cidade input { background:  url(../images/cidade.png) 8px 8px no-repeat; color:#999999; background-color:#FFFFFF;}
+
+/* Form */
+
+.inputFormContato{
+	color: #000; 
+	display: block; 
+	font-size: 12px; 
+	height: 41px; 
+	margin: 5px 0; 
+	padding: 0; 
+	width: 273px; 
+	border: solid; 
+	border-width:1px; 
+	border-color:#999999;
+	vertical-align:middle;
+	padding-left: 40px;
+}
+
+.textareaFormContato { 	
+	width: 296px; 
+	overflow: auto;
+	border: solid; 
+	border-width:1px;  
+	border-color:#999999;
+	margin: 5px 0 10px 0;
+	padding: 15px 0 0 15px; 
+}
+
+form {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    width: 314px;
+}
+
+form p { 
+	float: left; 
+	width: 100%;
+	font-size: 12px;
+    font-weight: bold;
+}
+
+
+form p input[type="button"], p input[type="submit"] {
+    margin-top: 10px;
+	padding: 5px;
+	border:solid;
+	border-width: 1px;
+	border-color:#999999;
+	width: 100px;
+}
+
+form p input[type="button"]:hover, p input[type="submit"]:hover {
+	background-color:#999999;
+}
+
+form p label { float: left; padding-top: 10px; color:#999999;}
+form p select {  
+	border: medium none; 
+	color:#999999; 
+	float: left; 
+	font-size: 12px; 
+	height: 41px; 
+	line-height: 41px; 
+	padding: 11px; 
+	text-transform: uppercase; 
+	width: 100%;  
+	margin: 5px 0; 
+	border: solid; 
+	border-width:1px;
+	border-color:#999999;
+	background-color:#FFFFFF;
+}
+
+/* Produtos */
+
+.item {
+	width: 100%;
+	height: 60px;
+	position:relative;
+	text-align:center;
+	color: #000000;
+    font-size: 18px;
+    line-height: 2.4em;
+	border-bottom: 1px solid #D6D6D6;
+}
+
+.imagemItem {
+	float:left; 
+	padding: 3px 15px 0 10px;
+}
+
+.textoItem {
+	float:left; 
+	padding-top: 8px;
+	color:#006699;
+}
+
+.setaDireitaItem {
+	float:right; 
+	padding-top: 9px;
+}
+
+/* Detalhe produto */
+
+
+#imagemDetalheProduto {
+	background-color:#FFFFFF;
+	text-align:center;
+	padding: 10px 0 10px 0;
+	border-bottom: 1px solid #D6D6D6;
+
+}
+#caracteristicasDetalheProduto{
+	padding: 5px;
+}
+
+#especicacoesDetalheProduto {
+	padding: 0 15px;
+}
+
+#especicacoesDetalheProduto ul {
+	list-style: none outside none;
+}
+
+#especicacoesDetalheProduto ul h3 {
+	background: url("http://www.totuus.com.br/images/prod_icon.png") no-repeat scroll left center transparent;
+    font-size: 12px;
+    padding: 0 0 0 10px;
+    text-transform: uppercase;
+	color:#006699;
+	
+	
+}
+
+#especicacoesDetalheProduto ul p {
+	
+    padding: 10px 0 10px 0;
+	
+	
+}
+
+/* Área do Cliente */
+
+
+#divImagemAreaCliente{
+	float:left; 
+	padding: 10px 15px 10px 10px;
+	
+}
+
+#divTextoAreaCliente{
+	float:left;
+	font-size: 18px;
+	font-family: Verdana,Helvetica,sans-serif;
+	font-weight: bold;
+	padding-top: 22px;
+	color:#006699;
+}
+
+#divTextoAreaClienteLogado{
+	float:left;
+	font-size: 14px;
+	font-family: Verdana,Helvetica,sans-serif;
+	font-weight: bold;
+	padding: 10px 0 0 0;
+	color:#006699;
+	width: 100%;
+}
+
+#divAreaCliente div input[type="button"], p input[type="submit"] {
+    margin: 5px 10px ;
+	padding: 3px;
+	border:solid;
+	border-width: 1px;
+	border-color:#999999;
+	width: 100px;
+}
+
+
+#servicosContratados {
+	padding: 0 15px;
+}
+
+#servicosContratados ul {
+	list-style: none outside none;
+	padding-top: 15px;
+	
+}
+
+#servicosContratados ul li {
+	padding: 5px 0 7px 0;
+	
+}
+
+#servicosContratados ul h3 {
+	background: url("http://www.totuus.com.br/images/prod_icon.png") no-repeat scroll left center transparent;
+    padding: 0 10px 0 10px;
+    text-transform: uppercase;
+	color:#006699;
+	
+	
+}
+
+#servicosContratados ul h3 a {
+ font-size: 15px !IMPORTANT;
+
+}

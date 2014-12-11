@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<camera>
+
+	<id>FI9821W</id>
+	
+	<nome>IP Wireless FI9821W MegaPixel</nome>
+
+	<caracteristicas>Permite visualização e controle de movimentos através da internet ou celular;Pode ser conectada via wireless ou cabo de rede RJ45 em um roteador ou modem;Possui dispositivo de áudio embutido, que permite a comunicação entre quem contola e o ambiente monitorado;Lente com IR CUT;LED's infravermelhos automáticos para visão noturna até 8 metros;Pode ser fixada invertida (ponta cabeça);Sensor de movimento que envia um alerta para e-mail e upload de imagens para FTP;Permite cadastro de vários usuários (administrador/operador/visitante) com senhas para acesso</caracteristicas>
+	
+	<imagens>
+		
+		<imagem>
+		
+			<grande>FI9821W-1.png</grande>
+			<pequena>FI9821W-p1.png</pequena>
+		
+		</imagem>
+	
+	</imagens>
+
+	
+	
+
+</camera>
